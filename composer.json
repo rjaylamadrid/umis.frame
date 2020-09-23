@@ -1,0 +1,14 @@
+{
+    "name": "cbsua.umis/framework",
+    "description": "CBSUA UMIS PHP Helper/MVC Framework",
+    "type": "project",
+    "require": {
+        "smarty/smarty": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "CBSUA UMIS",
+            "email": "umis@cbsua.edu.ph"
+        }
+    ]
+}
