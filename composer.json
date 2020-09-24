@@ -7,6 +7,11 @@
     },
     "minimum-stability": "dev",
     "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "umis": "src/"
+        }
+    },
     "authors": [
         {
             "name": "CBSUA UMIS",
