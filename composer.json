@@ -1,7 +1,7 @@
 {
     "name": "cbsua.umis/framework",
     "description": "CBSUA UMIS PHP Helper/MVC Framework",
-    "type": "project",
+    "type": "library",
     "require": {
         "smarty/smarty": "^3.1"
     },
