@@ -5,6 +5,7 @@
     "require": {
         "smarty/smarty": "^3.1"
     },
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "CBSUA UMIS",
