@@ -1,5 +1,5 @@
 <?php
-namespace umis\Database;
+namespace Database;
 
 use PDO;
 
