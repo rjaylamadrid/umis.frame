@@ -1,5 +1,5 @@
 <?php
-namespace umis\View;
+namespace View;
 
 use Smarty;
 
