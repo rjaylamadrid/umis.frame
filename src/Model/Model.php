@@ -1,5 +1,5 @@
 <?php
-namespace umis\Model;
+namespace Model;
 
 use umis\Database\DB;
 
