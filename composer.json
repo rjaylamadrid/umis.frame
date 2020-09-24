@@ -8,8 +8,8 @@
     "minimum-stability": "dev",
     "license": "MIT",
     "autoload": {
-        "psr-0": {
-            "umis": "src/"
+        "psr-4": {
+            "umis\\frame\\": "src/"
         }
     },
     "authors": [
