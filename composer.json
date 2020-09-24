@@ -6,6 +6,7 @@
         "smarty/smarty": "^3.1"
     },
     "minimum-stability": "dev",
+    "license": "MIT",
     "authors": [
         {
             "name": "CBSUA UMIS",
